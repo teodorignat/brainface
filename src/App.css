@@ -8,8 +8,8 @@
 }
 
 .forms {
-  -webkit-backdrop-filter: blur(2px);
-  backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
 }
 
 .App-logo {
