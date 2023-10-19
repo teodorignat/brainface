@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/brainface/static/css/main.4da5887c.css",
-    "main.js": "/brainface/static/js/main.c1384004.js",
+    "main.js": "/brainface/static/js/main.b3e58997.js",
     "static/js/787.2ae28171.chunk.js": "/brainface/static/js/787.2ae28171.chunk.js",
     "index.html": "/brainface/index.html",
     "main.4da5887c.css.map": "/brainface/static/css/main.4da5887c.css.map",
-    "main.c1384004.js.map": "/brainface/static/js/main.c1384004.js.map",
+    "main.b3e58997.js.map": "/brainface/static/js/main.b3e58997.js.map",
     "787.2ae28171.chunk.js.map": "/brainface/static/js/787.2ae28171.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4da5887c.css",
-    "static/js/main.c1384004.js"
+    "static/js/main.b3e58997.js"
   ]
 }
